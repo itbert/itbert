@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itbert
+- 👀 I’m interested in Machine Learning, Backend dev., Front dev.
+- 🌱 I’m currently learning Python and Java Backend developing
+- 📫 How to reach me via my links in profile
+- ⚡ Fun fact: i like playing table tennis
