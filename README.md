@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python and Java Backend developing
 - 📫 How to reach me via my links in profile
 - ⚡ Fun fact: i like playing table tennis
-- 💻 I also superficially study C, C++, C#, Delphi, JS
+- 💻 I also superficially study Delphi, JS, Dart
