@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itbert
-- 👀 I’m interested in Machine Learning, Backend dev
-- 🌱 I’m currently learning Python and Java Backend developing
+- 👀 I’m interested in Machine Learning, Backend dev, Mobile dev coming soon
+- 🌱 I’m currently learning Python, Java Backend developing and Dart
 - 📫 How to reach me via my links in profile
 - ⚡ Fun fact: i like playing table tennis
 - 💻 I also superficially study Delphi, JS, Dart
