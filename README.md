@@ -13,16 +13,10 @@ I'm a beginner programmer. Passionate about creating efficient and intuitive app
 - Backend development 
 - Mobile dev
 
---- 
-
 ## 📫 How to reach me
 - **YouTube**: [ITbert](https://www.youtube.com/@itbert) 
 - **Social**: [Links](https://taplink.cc/itbert)
 - **Telegram**: [Channel](https://t.me/itbert_live) 
 
---- 
-
 ## 📊 Statistics GitHub 
 ![Ваши статистики GitHub](https://github-readme-stats.vercel.app/api?username=itbert&show_icons=true&theme=radical) 
-
---- 
