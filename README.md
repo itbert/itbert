@@ -4,12 +4,12 @@ I'm a beginner programmer. Passionate about creating efficient and intuitive app
 
 ## 🛠️ Technologies and tools
 - **Programming language**: Python, Java, Kotlin, Dart, Delphi
-- **Frameworks**: PyTorch, Flask, Aiogram, Spring, Jetpack Compose, WPF
+- **Frameworks**: PyTorch, Scikit-learn, Flask, Aiogram, Spring, Jetpack Compose, WPF
 - **Data bases**: PostgreSQL, MongoDB, SQLite
 - **Tools**: Git, Jupyter Notebook
 
 ## 🌱  I’m interested 
-- ML & DS
+- DL & ML & DS
 - Backend development 
 - Mobile dev
 
