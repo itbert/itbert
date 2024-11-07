@@ -4,7 +4,7 @@ I'm a beginner programmer. Passionate about creating efficient and intuitive app
 
 ## 🛠️ Technologies and tools
 - **Programming language**: Python, Java, Kotlin, Dart, Delphi
-- **Frameworks**: PyTorch, Scikit-learn, Flask, Aiogram, Streamlit, Spring, Jetpack Compose, WPF
+- **Frameworks**: PyTorch, Scikit-learn, Flask, Aiogram, Streamlit, Spring, Jetpack Compose
 - **Data bases**: PostgreSQL, MongoDB, SQLite
 - **Tools**: Git, Jupyter Notebook
 
