@@ -14,7 +14,7 @@ I'm a beginner programmer. Passionate about creating efficient and intuitive app
 - Mobile dev
 
 ## 📫 How to reach me
-- **Telegram**: [Channel](https://t.me/itbert) 
+- **Telegram**: [Albert](https://t.me/itbert) 
 
 ## 📊 Statistics GitHub 
 ![Ваши статистики GitHub](https://github-readme-stats.vercel.app/api?username=itbert&show_icons=true&theme=radical) 
