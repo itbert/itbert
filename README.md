@@ -1,5 +1,7 @@
 # Hello👋
-> I'm a beginner programmer. Passionate about creating efficient and intuitive applications. Table tennis and soccer player. I like AI, ML, Math, Neurobiology, Chemistry
+> I am an ordinary student with a passion for programming and keen to develop my skills in this field. Enjoy learning new technologies and solving interesting problems
+> Ex professional table tennis and soccer player
+> I like AI, ML, DL, DS, Math, Neurobiology, Chemistry
 
 ## 🪄 Technologies stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
