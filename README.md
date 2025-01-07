@@ -1,5 +1,5 @@
 # Hello👋
-> I am an ordinary student with a passion for programming and keen to develop my skills in this field. Enjoy learning new technologies and solving interesting problems.
+> I am an ordinary student at school with a passion for programming and keen to develop my skills in Ai field
 > Ex professional table tennis and soccer player.
 > I like AI, ML, DL, DS, Math, Neurobiology, Chemistry
 
