@@ -1,5 +1,5 @@
 # Hello👋
-> I am an ordinary student at school with a passion for programming and keen to develop my skills in Ai field
+> I am an ordinary schoolboy with a passion for programming and keen to develop my skills in Ai field
 > 
 > Ex professional table tennis and soccer player
 > 
