@@ -17,4 +17,5 @@ I'm a beginner programmer. Passionate about creating efficient and intuitive app
 - **Kaggle**: [itbert](https://www.kaggle.com/itbert)
 
 ## 📊 Statistics GitHub 
-![Ваши статистики GitHub](https://github-readme-stats.vercel.app/api?username=itbert&show_icons=true&theme=radical) 
+![GitHub](https://github-readme-stats.vercel.app/api?username=itbert&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
