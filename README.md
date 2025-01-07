@@ -13,6 +13,7 @@ I'm a beginner programmer. Passionate about creating efficient and intuitive app
 
 ## 📫 How to reach me
 - **Telegram**: [Albert](https://t.me/itbert)
+- **Telegram**: [Albert](https://t.me/intell_alba)
 - **Kaggle**: [itbert](https://www.kaggle.com/itbert)
 
 ## 📊 Statistics GitHub 
