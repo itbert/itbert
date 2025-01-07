@@ -12,9 +12,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## ⚡ I’m interested 
-- Artificial Intelligence
-- Backend development 
-- Mobile dev
+- **Artificial Intelligence**
+- **Backend development**
+- **Mobile dev**
 
 ## 📫 How to reach me
 - **Telegram**: [Albert](https://t.me/itbert)
