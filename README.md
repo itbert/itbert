@@ -1,7 +1,7 @@
 # Hello👋
 
 
-I'm a beginner programmer. Passionate about creating efficient and intuitive applications. Table tennis and soccer player. I like AI, ML, Math, Neurobiology, Chemistry
+> I'm a beginner programmer. Passionate about creating efficient and intuitive applications. Table tennis and soccer player. I like AI, ML, Math, Neurobiology, Chemistry
 
 ## 🛠️ Technologies and tools
 
