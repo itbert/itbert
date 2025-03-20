@@ -1,7 +1,7 @@
 # Hello👋
 > I am an ordinary schoolboy with a passion for programming and keen to develop my skills in Ai field
 > 
-> Ex professional table tennis and soccer player
+> Ex professional table tennis player
 > 
 > I like AI, DS, Math, Neurobiology, Chemistry, and computer science in general 
 
