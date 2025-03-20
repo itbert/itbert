@@ -3,7 +3,7 @@
 > 
 > Ex professional table tennis and soccer player
 > 
-> I like AI, ML, DL, DS, Math, Neurobiology, Chemistry
+> I like AI, DS, Math, Neurobiology, Chemistry, and computer science in general 
 
 ## 🪄 Technologies stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
