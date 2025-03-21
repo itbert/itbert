@@ -24,6 +24,7 @@
 - **Telegram**: [Albert](https://t.me/itbert)
 - **Telegram**: [Albert](https://t.me/intell_alba)
 - **Kaggle**: [itbert](https://www.kaggle.com/itbert)
+- **Hugging Face**: [itbert](https://huggingface.co/itbert)
 
 ## 📊 Statistics GitHub 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=itbert&show_icons=true&theme=radical) 
