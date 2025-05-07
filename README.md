@@ -7,7 +7,7 @@
 
 ## 🪄 Technologies stack
 [![My Skills](https://skillicons.dev/icons?i=py,java,kotlin,dart,cpp,html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,fastapi,spring,firebase,flutter,kafka,posgres,sqlite,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,fastapi,spring,firebase,flutter,kafka,postgres,sqlite,redis)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,linux,postman,raspberrypi)](https://skillicons.dev)
 
 ## ⚡ I’m interested 
