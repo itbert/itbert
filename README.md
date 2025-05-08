@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,linux,postman,raspberrypi)](https://skillicons.dev)
 
 ## ⚡ I’m interested 
-- **Artificial Intelligence & Machine Learning**
+- **Machine Learning**
 - **Backend development**
 - **Mobile dev**
 
