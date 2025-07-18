@@ -14,10 +14,10 @@
 - **Machine Learning**
 - **Backend development**
 - **Mobile dev**
+- **Reverse engineering**
 
 ## 📫 How to reach me
 - **Telegram**: [Albert](https://t.me/itbert)
-- **Telegram**: [Albert](https://t.me/intell_alba)
 - **Kaggle**: [itbert](https://www.kaggle.com/itbert)
 - **Hugging Face**: [itbert](https://huggingface.co/itbert)
 
