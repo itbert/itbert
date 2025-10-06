@@ -2,17 +2,10 @@
 I like Data Science btw
 
 ## 🪄 Technologies stack
-[![My Skills](https://skillicons.dev/icons?i=py,java,bash,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,matlab,postgres,sqlite,redis)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,linux,raspberrypi)](https://skillicons.dev)
 
-## ⚡ I’m interested 
-- **Machine Learning**
-- **Backend development**
-- **Mobile dev**
-- **Reverse engineering**
-
-## 📫 How to reach me
 - **Telegram**: [Albert](https://t.me/itbert)
 - **Kaggle**: [itbert](https://www.kaggle.com/itbert)
 - **Hugging Face**: [itbert](https://huggingface.co/itbert)
